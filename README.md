@@ -24,5 +24,6 @@ The columns *ride_id*, *start_station_id*, *end_station_id*, *start_lat*, *start
 
 ### Analyze
 To get a better sense of how the cleaned data looks, aggregated charts were made to get quick snapshots of how the data looks. 
+
 <img width="442" alt="Screenshot 2023-10-22 at 9 02 12 PM" src="https://github.com/imyrie/Cyclistic/assets/97645125/bac6c509-6695-41c9-bffc-c270d05b85dc">
 
