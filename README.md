@@ -35,6 +35,8 @@ Average Ride Length by Payment Plan
 
 <img width="829" alt="Screenshot 2023-10-22 at 9 03 44 PM" src="https://github.com/imyrie/Cyclistic/assets/97645125/1dbd557d-046e-4a8e-a1b7-faa1b539e48e">
 
+Average Ride Length by Weekday, Separated by Payment Plan 
+
 <img width="789" alt="Screenshot 2023-10-22 at 9 04 48 PM" src="https://github.com/imyrie/Cyclistic/assets/97645125/ef3e1bdf-aad6-4f67-ab0a-44acc2f4c3a6">
 
 
