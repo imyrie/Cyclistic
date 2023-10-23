@@ -43,3 +43,5 @@ Average Ride Length by Month, Separated by Month
 
 <img width="971" alt="Screenshot 2023-10-23 at 12 14 29 AM" src="https://github.com/imyrie/Cyclistic/assets/97645125/23e76d47-fa35-4a98-ae8e-32f3570fac2a">
 
+<img width="855" alt="Screenshot 2023-10-23 at 12 22 50 AM" src="https://github.com/imyrie/Cyclistic/assets/97645125/07577b8b-7a4a-4886-8abc-62dae9946a6b">
+
