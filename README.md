@@ -6,7 +6,7 @@ Cyclistic is a bike-share company in Chicago, where customers can use one of 5,8
 ### Ask 
 The director of marketing wants the following question to be answered:
 
-_How do annual members and casual riders use Cyclistic bikes differently? _
+*How do annual members and casual riders use Cyclistic bikes differently?*
 
 By answering this question, new marketing strategies can be implemented to maximize the number of annual members. 
 
