@@ -26,9 +26,12 @@ The columns *ride_id*, *start_station_id*, *end_station_id*, *start_lat*, *start
 To get a better sense of how the cleaned data looks, aggregated charts were made to get quick snapshots of how the data looks. 
 
 <img width="627" alt="Screenshot 2023-10-22 at 9 03 06 PM" src="https://github.com/imyrie/Cyclistic/assets/97645125/84422760-6f7d-449f-ac9e-63bc89bd341b">
-Ride Length Averages Separated by Payment Plan
+
+Median Ride Lengths by Payment Plan 
 
 <img width="616" alt="Screenshot 2023-10-22 at 9 03 26 PM" src="https://github.com/imyrie/Cyclistic/assets/97645125/a2c61923-57e7-4702-8168-55e848c054fe">
+
+Average Ride Length by Payment Plan 
 
 <img width="829" alt="Screenshot 2023-10-22 at 9 03 44 PM" src="https://github.com/imyrie/Cyclistic/assets/97645125/1dbd557d-046e-4a8e-a1b7-faa1b539e48e">
 
